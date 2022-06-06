@@ -24,9 +24,9 @@ Second, you need python installed on your server computer and it needs Linux or 
 
 
 ## Running the program
-First, run the web server *(server.py)* on the server computer
-Second, run Ngrok http on port 25559 (If you dont know how, Go to https://ngrok.com/)
-Third, run UrlChecker and enter the ngrok Url
+First, run the web server *(server.py)* on the server computer.
+Second, run Ngrok http on port 25559 (If you dont know how, Go to https://ngrok.com/).
+Third, run UrlChecker and enter the ngrok Url.
 
 
 ## What is it, And what are the requirements?
