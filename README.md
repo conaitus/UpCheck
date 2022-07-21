@@ -9,9 +9,9 @@ If you don't know what UpCheck is then I am going to explain it in [What is it, 
 
 ## How to Download
 #### Download on server computer
-First, you need a web server on your server computer, If you don't have one you can use the server.py file by
+* First, you need a web server on your server computer, If you don't have one you can use the server.py file by
 cloning this repo using `git clone https://github.com/ConanProZs/UpCheck.git`,
-And you need python installed on your server computer for the server.py, And it needs Linux or windows to run. 
+* Second, you need python installed on your server computer for the server.py, And it needs Linux or windows to run. 
 *(You can try run it on Mac but it's not tested on it.)*
 
 #### Download on moderater computer
