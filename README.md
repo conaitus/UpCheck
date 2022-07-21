@@ -12,15 +12,13 @@ If you don't know what UpCheck is then I am going to explain it in [What is it, 
 First, you need a web server on your server computer, If you don't have one you can use the server.py file by
 cloning this repo using `git clone https://github.com/ConanProZs/UpCheck.git`,
 And you need python installed on your server computer for the server.py, And it needs Linux or windows to run. 
-*(You can run it on Mac but it's not tested on it.)*
-
-
-
+*(You can try run it on Mac but it's not tested on it.)*
 
 #### Download on moderater computer
-First, clone this repo using `git clone https://github.com/ConanProZs/UpCheck.git`
-Second, you need python installed on your server computer and it needs Linux or windows to run. 
-*(You can run it on Mac but it's not tested on it.)*
+* First, clone this repo using `git clone https://github.com/ConanProZs/UpCheck.git`
+* Second, you need python installed on your server computer and it needs Linux or windows to run. *(You can run it on Mac but it's not tested on it.)*
+* Third, you need to install all the needed modules. The modules are:
+curses, notifypy, stopwatch
 
 
 ## Running the program
