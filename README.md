@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![Downloads](https://shields.io/github/downloads/ConanProZs/UpCheck/total) ![Forks](https://img.shields.io/github/forks/ConanProZs/UpCheck?style=social) ![watchers](https://img.shields.io/github/watchers/ConanProZs/UpCheck?style=social)
+![Version](https://img.shields.io/badge/Version-0.1.0-blue) ![Downloads](https://shields.io/github/downloads/ConanProZs/UpCheck/total) ![Forks](https://img.shields.io/github/forks/ConanProZs/UpCheck?style=social) ![watchers](https://img.shields.io/github/watchers/ConanProZs/UpCheck?style=social)
 
 &nbsp;
 ![The logo](https://raw.githubusercontent.com/ConanProZs/UpCheck/main/icon.png)
